@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/ClientDemo.jar"/>
+	<classpathentry kind="lib" path="dist/lib/examples.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jna.jar"/>
+	<classpathentry kind="lib" path="examples.jar"/>
+	<classpathentry kind="lib" path="jna.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
